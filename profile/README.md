@@ -1,5 +1,8 @@
 # EcoCAT = Ecosystem Conservation Assessment Tools
 
+
+![](EcoCAT-wide-header_Tarciso-Leao.png.webp)
+
 This project aims to develop an open, modular application to assess
 ecosystem distribution, trends, function, degradation and risk of
 collapse following the IUCN Red List of Ecosystems guidelines
